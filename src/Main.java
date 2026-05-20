@@ -6,5 +6,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello, World!");
         System.out.println("This is a second statement");
+        // this is main
         }
     }
